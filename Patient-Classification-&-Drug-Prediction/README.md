@@ -1,1 +1,1 @@
-Patient Classification and Drug Prediction using Decision Tree model
+Patient Classification and Drug Prediction using Decision Tree algorithm
