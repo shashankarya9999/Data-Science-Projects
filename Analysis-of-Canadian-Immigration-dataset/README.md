@@ -1,1 +1,1 @@
-Analysis of Canadian International Immigration dataset using Matplotlib
+Analysis of Canadian International Immigration dataset using <code>Matplotlib</code>
