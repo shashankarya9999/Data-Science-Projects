@@ -26,5 +26,5 @@ This project is licensed under the [**MIT License**](https://github.com/shashank
 ## Contributing
 Contributions are most welcome! If you want to contribute, make sure to go through [**CONTRIBUTING.md**](https://github.com/shashankarya9999/Data-Science-Projects/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
 
-## Feedback
+## Contact
 I welcome any feedback, discussion, suggestion or question regarding any of the projects or any kind of sponsorships for the repository. Feel free to reach out to me via email at shashankarya9831@gmail.com
