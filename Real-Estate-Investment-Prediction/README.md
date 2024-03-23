@@ -1,1 +1,1 @@
-Real Estate Investment Prediction using Regression Tree algorithm
+Real Estate Investment Prediction using <code>Regression Tree</code> algorithm
