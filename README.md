@@ -20,6 +20,13 @@ This repository contains a collection of data science projects which I did in th
 11. [**Real Estate Investment Prediction**](https://github.com/shashankarya9999/Data-Science-Projects/tree/main/Real-Estate-Investment-Prediction)
 12. [**Residential Real Estate Price Prediction**](https://github.com/shashankarya9999/Data-Science-Projects/tree/main/Residential-Real-Estate-Price-Prediction)
 
+## Getting Started
+If you're new to this repository or data science in general, here's how you can get started:
+
+1. Clone the repository to your local machine using `git clone https://github.com/shashankarya9999/Data-Science-Projects`.
+2. Navigate to the project you're interested in within the repository.
+3. Run, and explore the code.
+
 ## License
 This project is licensed under the [**MIT License**](https://github.com/shashankarya9999/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes with citation or reference to the original code and resources used.
 
