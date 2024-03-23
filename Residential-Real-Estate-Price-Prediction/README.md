@@ -1,1 +1,1 @@
-Residential Real Estate price prediction using Linear Regression and Ridge Regression models
+Residential Real Estate price prediction using <code>Linear Regression</code> and <code>Ridge Regression</code> models
