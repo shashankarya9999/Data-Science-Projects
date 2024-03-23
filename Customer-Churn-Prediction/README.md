@@ -1,1 +1,1 @@
-Customer Churn Prediction using Logistic Regression model
+Customer Churn Prediction using <code>Logistic Regression</code> model
