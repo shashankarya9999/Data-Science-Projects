@@ -1,1 +1,1 @@
-Canadian Immigration analysis using `Matplotlib`
+Canadian Immigration analysis using `Matplotlib` library
